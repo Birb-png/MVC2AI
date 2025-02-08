@@ -154,7 +154,7 @@ class ModernChatbotView:
         if hasattr(self, 'generate_callback'):
             self.generate_callback()
     
-    def update_response(self, question: str, answer: str, emotion: float,):
+    def update_response(self, question: str, answer: str, emotion: float):
         # user "question" (random generation)
         self.create_message_bubble(f": สุ่มคำถาม{self.question_type.get()} :", is_bot=False)
         # question
