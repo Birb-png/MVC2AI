@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "id": "54480",
+      "type": "วิทยาศาสตร์",
+      "text": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+      "answer": "Cat"
+    },
+    {
+      "id": "19350",
+      "type": "วิทยาศาสตร์",
+      "text": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+      "answer": "Dunning-Kruger effect"
+    },
+    {
+      "id": "82473",
+      "type": "วิทยาศาสตร์",
+      "text": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+      "answer": "Lift"
+    },
+    {
+      "id": "96864",
+      "type": "วิทยาศาสตร์",
+      "text": "What is the most potent toxin known?",
+      "answer": "Botulinum toxin"
+    },
+    {
+      "id": "54594",
+      "type": "วิทยาศาสตร์",
+      "text": "Where is the Gluteus Maximus muscle located?",
+      "answer": "Butt"
+    },
+    {
+      "id": "10158",
+      "type": "วิทยาศาสตร์",
+      "text": "Deuterium is an isotope of which element?",
+      "answer": "Hydrogen"
+    },
+    {
+      "id": "69274",
+      "type": "วิทยาศาสตร์",
+      "text": "Which element has the atomic number of 7?",
+      "answer": "Nitrogen"
+    },
+    {
+      "id": "60348",
+      "type": "วิทยาศาสตร์",
+      "text": "Which of these is a type of stretch/deep tendon reflex?",
+      "answer": "Ankle jerk reflex"
+    },
+    {
+      "id": "22656",
+      "type": "วิทยาศาสตร์",
+      "text": "The element involved in making human blood red is which of the following?",
+      "answer": "Iron"
+    },
+    {
+      "id": "82740",
+      "type": "วิทยาศาสตร์",
+      "text": "Which constellation contains the center of the Milky Way?",
+      "answer": "Sagittarius"
+    },
+    {
+      "id": "49544",
+      "type": "วิทยาศาสตร์",
+      "text": "The &quot;Tibia&quot; is found in which part of the body?",
+      "answer": "Leg"
+    },
+    {
+      "id": "55900",
+      "type": "วิทยาศาสตร์",
+      "text": "Which of the following are cells of the adaptive immune system?",
+      "answer": "Cytotoxic T cells"
+    },
+    {
+      "id": "60979",
+      "type": "วิทยาศาสตร์",
+      "text": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+      "answer": "21"
+    },
+    {
+      "id": "58833",
+      "type": "วิทยาศาสตร์",
+      "text": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+      "answer": "Light"
+    },
+    {
+      "id": "79270",
+      "type": "วิทยาศาสตร์",
+      "text": "How many planets make up our Solar System?",
+      "answer": "8"
+    },
+    {
+      "id": "80531",
+      "type": "วิทยาศาสตร์",
+      "text": "The medical term for the belly button is which of the following?",
+      "answer": "Umbilicus"
+    },
+    {
+      "id": "73296",
+      "type": "วิทยาศาสตร์",
+      "text": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+      "answer": "Space"
+    },
+    {
+      "id": "53691",
+      "type": "วิทยาศาสตร์",
+      "text": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+      "answer": "4"
+    },
+    {
+      "id": "95260",
+      "type": "วิทยาศาสตร์",
+      "text": "Which of the following spacecraft never touched the moon?",
+      "answer": "Mariner 4"
+    },
+    {
+      "id": "69960",
+      "type": "วิทยาศาสตร์",
+      "text": "What element on the periodic table has 92 electrons?",
+      "answer": "Uranium"
+    },
+    {
+      "id": "81716",
+      "type": "ความรู้ทั่วไป",
+      "text": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "answer": "Gorilla"
+    },
+    {
+      "id": "12781",
+      "type": "ความรู้ทั่วไป",
+      "text": "Which of the following is not the host of a program on NPR?",
+      "answer": "Ben Shapiro"
+    },
+    {
+      "id": "61678",
+      "type": "ความรู้ทั่วไป",
+      "text": "What machine element is located in the center of fidget spinners?",
+      "answer": "Bearings"
+    },
+    {
+      "id": "35202",
+      "type": "ความรู้ทั่วไป",
+      "text": "What is the defining characteristic of someone who is described as hirsute?",
+      "answer": "Hairy"
+    },
+    {
+      "id": "35349",
+      "type": "ความรู้ทั่วไป",
+      "text": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+      "answer": "Andrew Scott Reisse"
+    },
+    {
+      "id": "90453",
+      "type": "ความรู้ทั่วไป",
+      "text": "Which of these colours is NOT featured in the logo for Google?",
+      "answer": "Pink"
+    },
+    {
+      "id": "86194",
+      "type": "ความรู้ทั่วไป",
+      "text": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+      "answer": "Spruce Goose"
+    },
+    {
+      "id": "30782",
+      "type": "ความรู้ทั่วไป",
+      "text": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+      "answer": "Niagara Mohawk Building"
+    },
+    {
+      "id": "50671",
+      "type": "ความรู้ทั่วไป",
+      "text": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+      "answer": "Helicopter"
+    },
+    {
+      "id": "70699",
+      "type": "ความรู้ทั่วไป",
+      "text": "What is the Zodiac symbol for Gemini?",
+      "answer": "Twins"
+    },
+    {
+      "id": "83689",
+      "type": "ความรู้ทั่วไป",
+      "text": "What was the destination of the missing flight MH370?",
+      "answer": "Beijing"
+    },
+    {
+      "id": "94989",
+      "type": "ความรู้ทั่วไป",
+      "text": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+      "answer": "The Shatter&#039;s"
+    },
+    {
+      "id": "35050",
+      "type": "ความรู้ทั่วไป",
+      "text": "What is the world&#039;s most expensive spice by weight?",
+      "answer": "Saffron"
+    },
+    {
+      "id": "23484",
+      "type": "ความรู้ทั่วไป",
+      "text": "What is the first book of the Old Testament?",
+      "answer": "Genesis"
+    },
+    {
+      "id": "84730",
+      "type": "ความรู้ทั่วไป",
+      "text": "What is the nickname of the US state of California?",
+      "answer": "Golden State"
+    },
+    {
+      "id": "86486",
+      "type": "ความรู้ทั่วไป",
+      "text": "Which film star has his statue in Leicester Square?",
+      "answer": "Charlie Chaplin"
+    },
+    {
+      "id": "29780",
+      "type": "ความรู้ทั่วไป",
+      "text": "Where does water from Poland Spring water bottles come from?",
+      "answer": "Maine, United States"
+    },
+    {
+      "id": "17618",
+      "type": "ความรู้ทั่วไป",
+      "text": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+      "answer": "Government"
+    },
+    {
+      "id": "46236",
+      "type": "ความรู้ทั่วไป",
+      "text": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+      "answer": "4"
+    },
+    {
+      "id": "97377",
+      "type": "ความรู้ทั่วไป",
+      "text": "The Canadian $1 coin is colloquially known as a what?",
+      "answer": "Loonie"
+    },
+    {
+      "id": "81045",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which painting was not made by Vincent Van Gogh?",
+      "answer": "The Ninth Wave"
+    },
+    {
+      "id": "45277",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+      "answer": "2/2"
+    },
+    {
+      "id": "60658",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+      "answer": "Salvador Dali"
+    },
+    {
+      "id": "38450",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+      "answer": "The Starry Night"
+    },
+    {
+      "id": "37932",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted The Starry Night?",
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": "14947",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted &quot;The Starry Night&quot;?",
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": "17120",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted the Sistine Chapel?",
+      "answer": "Michelangelo"
+    },
+    {
+      "id": "90512",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+      "answer": "Andy Warhol"
+    },
+    {
+      "id": "23344",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+      "answer": "Origami"
+    },
+    {
+      "id": "15291",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which one of these paintings is not by Caspar David Friedrich?",
+      "answer": "The Black Sea"
+    },
+    {
+      "id": "15625",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "id": "31547",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted the epic mural Guernica?",
+      "answer": "Pablo Picasso"
+    },
+    {
+      "id": "10574",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci "
+    },
+    {
+      "id": "31395",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+      "answer": "Georges Seurat"
+    },
+    {
+      "id": "18976",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who painted the biblical fresco The Creation of Adam?",
+      "answer": "Michelangelo"
+    },
+    {
+      "id": "46866",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "What year was the Mona Lisa finished?",
+      "answer": "1504"
+    },
+    {
+      "id": "14252",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+      "answer": "1502"
+    },
+    {
+      "id": "38255",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+      "answer": "Neoplasticism"
+    },
+    {
+      "id": "60143",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Which of these is not an additional variation of the color purple?",
+      "answer": "Kobicha"
+    },
+    {
+      "id": "73885",
+      "type": "คำถามเชิงอารมณ์",
+      "text": "Who sculpted the statue of David?",
+      "answer": "Michelangelo"
+    }
+  ]
+}
