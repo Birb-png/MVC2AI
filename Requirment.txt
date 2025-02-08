@@ -1,0 +1,9 @@
+Run controller.py to run file
+
+
+tkinter
+random
+datetime
+json
+
+need to install these libraries
