@@ -161,7 +161,7 @@ class ModernChatbotView:
         self.create_message_bubble(question, is_bot=False)
         # bot response
         self.create_message_bubble(answer, is_bot=True)
-        self.create_message_bubble(f"ระดับอารมณ์ที่ได้: {random_emotion:.1f}%", is_bot=True)
+        self.create_message_bubble(f"ระดับอารมณ์ที่ได้: {emotion:.1f}%", is_bot=True)
         # update emotion
         self.emotion_var.set(f"อารมณ์ปัจจุบัน: {emotion:.1f}%")
         # **Scrollbar ให้เลื่อนลงอัตโนมัติ** หลังจาก gen chat เสร็จอีกที
